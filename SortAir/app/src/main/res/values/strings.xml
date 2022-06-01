@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Подбор кондиционера</string>
+    <string name="error_modal_title">Форма заполнена не полностью!</string>
+    <string name="error_m_q">Необходимо заполнить поле с площадью помещения в квадратных метрах м².</string>
+    <string name="error_m">Необходимо заполнить поле с высотой помещения в метрах.</string>
+    <string name="error_light">Необходимо выбрать степень освещения комнаты.</string>
+    <string name="error_people_num">Необходимо заполнить поле с среднем количестве человек находящихся в помещении.</string>
+    <string name="error_tech_num">Необходимо заполнить поле с количеством бытовой техники находящаяся в помещении.</string>
+    <string name="error">Произошла неизвестная ошибка, пожалуйста обратитесь к специалисту в магазине.</string>
+    <string name="title_result_button">Расчет мощности</string>
+    <string name="text_info_app">Чтобы найти сплит-систему для вашего помещения, нужно заполнить форму и нажать на кнопку \"рассчитать мощность\". После этого если все пункты указаны, приложение отобразить во всплывающем окне подходящие для вас сплит-системы.</string>
+    <string name="github_link">https://github.com/krusalovorg</string>
+    <string name="app_creator_krusalovorg">Разработчик приложения: krusalovorg</string>
+    <string name="p_1">Размер помещения</string>
+</resources>
